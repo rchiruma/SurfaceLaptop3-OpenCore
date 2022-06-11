@@ -3,10 +3,10 @@ Surface Laptop 3 MacOS Monterey OpenCore
 
 Surface Specs
 
-Intel® Core™ i5-1035G7 Quad-Core
-8 GB LPDDR4x RAM
-Intel® Iris™ Plus
-SSD 256 GB
+1. Intel® Core™ i5-1035G7 Quad-Core
+2. 8 GB LPDDR4x RAM
+3. Intel® Iris™ Plus
+4. SSD 256 GB
 
 
 What works
