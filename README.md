@@ -1,5 +1,5 @@
-# SurfaceLaptop3-OpenCore
-Surface Laptop 3 Hackintosh OpenCore Monterey
+# Surface Laptop 3 MacOS Moterey OpenCore
+Surface Laptop 3 MacOS Monterey OpenCore
 
 
 
