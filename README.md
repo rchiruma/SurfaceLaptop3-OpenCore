@@ -11,3 +11,5 @@ What works
 4. Trackpad
 5. Audio with AppleALC (Realtek	ALC274) Layout ID 35
 6. DisplayPort via USB-C
+7. Webcam in facetime
+8. 
