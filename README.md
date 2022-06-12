@@ -30,9 +30,12 @@ Surface Laptop 3 MacOS Monterey OpenCore
 
 Touchscreen
 
-## Trackpad Tweak
-Download the EFI and add your SMBIOS values for SerialNumber, MLB, ROM, BoardSerial etc.
+## Breif How to
+Create your macOS installed USB
+Download the EFI above nd add your SMBIOS values for SerialNumber, MLB, ROM, BoardSerial etc.
+Copy the EFI to your EFI partition
 
+## Trackpad Tweak
 Also go to "SystemPreferences->TrackPad" and turn off "Force Click and haptic feedback" and turn on "Tap to Click" for the best experience
 ![Trackpad Tweak](https://github.com/rchiruma/SurfaceLaptop3-OpenCore/blob/main/Trackpad.png)
 
