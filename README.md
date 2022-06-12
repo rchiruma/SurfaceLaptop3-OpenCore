@@ -32,5 +32,5 @@ Touchscreen
 Download the EFI and add your SMBIOS values for SerialNumber, MLB, ROM, BoardSerial etc.
 
 Also go to "SystemPreferences->TrackPad" and turn off "Force Click and haptic feedback" and turn on "Tap to Click" for the best experience
-![Trackpad Tweak](https://myoctocat.com/assets/images/base-octocat.svg)
+![Trackpad Tweak](https://github.com/rchiruma/SurfaceLaptop3-OpenCore/blob/main/Trackpad.png)
 
