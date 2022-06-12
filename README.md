@@ -20,6 +20,8 @@ What works
 7. DisplayPort via USB-C
 8. Webcam in facetime
 9. BatteryStatus
+10. Sleep and Wakeup (Via Keyboard)
+11. 
 
 
 
