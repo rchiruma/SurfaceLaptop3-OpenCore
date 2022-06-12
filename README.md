@@ -9,21 +9,24 @@ Surface Specs
 4. SSD 256 GB
 
 
-What works
+What works:
 
 1. Display with Full Acceleration
 2. WiFi with Airpoirtitlm
 3. Bluetooth
-4. Keyboard
-5. Touchpad
-6. Audio with AppleALC (Realtek	ALC274) Layout ID 35
-7. DisplayPort via USB-C
-8. Webcam in facetime
-9. BatteryStatus
-10. Sleep and Wakeup (Via Keyboard)
-11. 
+4. Keyboard (BigSurface.Kext)
+5. Touchpad (BigSurface.Kext)
+6. Ambient Light Sensor (BigSurface.Kext)
+7. Brigthness/Power Buttons (BigSurface.Kext)
+8. Audio with AppleALC (Realtek	ALC274) Layout ID 35
+9. DisplayPort via USB-C
+10. Webcam in facetime
+11. BatteryStatus
+12. Sleep and Wakeup (Via Keyboard)
 
+What does not work:
 
+Touchscreen
 
 
 Download the EFI and add your SMBIOS values for SerialNumber, MLB, ROM, BoardSerial etc.
