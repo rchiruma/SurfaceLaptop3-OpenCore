@@ -5,10 +5,10 @@ Surface Laptop 3 MacOS Monterey OpenCore
 
 ## Surface Specs
 
-1. Intel® Core™ i5-1035G7 Quad-Core
-2. 8 GB LPDDR4x RAM
-3. Intel® Iris™ Plus
-4. SSD 256 GB
+* Intel® Core™ i5-1035G7 Quad-Core
+* 8 GB LPDDR4x RAM
+* Intel® Iris™ Plus
+* SSD 256 GB
 
 
 ## What works:
@@ -31,9 +31,9 @@ Surface Laptop 3 MacOS Monterey OpenCore
 Touchscreen
 
 ## Breif How to
-Create your macOS installed USB
-Download the EFI above nd add your SMBIOS values for SerialNumber, MLB, ROM, BoardSerial etc.
-Copy the EFI to your EFI partition
+- Create your macOS installed USB
+- Download the EFI above nd add your SMBIOS values for SerialNumber, MLB, ROM, BoardSerial etc.
+- Copy the EFI to your EFI partition
 
 ## Trackpad Tweak
 Also go to "SystemPreferences->TrackPad" and turn off "Force Click and haptic feedback" and turn on "Tap to Click" for the best experience
