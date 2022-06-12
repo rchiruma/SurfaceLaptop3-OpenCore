@@ -1,6 +1,8 @@
 # Surface Laptop 3 MacOS Moterey OpenCore
 Surface Laptop 3 MacOS Monterey OpenCore
 
+![SL3](https://github.com/rchiruma/SurfaceLaptop3-OpenCore/blob/main/SLP3.png)
+
 ## Surface Specs
 
 1. Intel® Core™ i5-1035G7 Quad-Core
