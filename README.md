@@ -24,11 +24,11 @@ Surface Laptop 3 MacOS Monterey OpenCore
 9. DisplayPort via USB-C
 10. Webcam in facetime
 11. BatteryStatus
-12. Sleep and Wakeup (Via Keyboard) - Working partially
 
 ## What does not work:
 
 Touchscreen
+sleep - work in progress
 
 ## Breif How to
 - Create your macOS installed USB
