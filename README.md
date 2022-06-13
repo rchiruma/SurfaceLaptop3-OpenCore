@@ -27,8 +27,8 @@ Surface Laptop 3 MacOS Monterey OpenCore
 
 ## What does not work:
 
-Touchscreen
-sleep - work in progress
+* Touchscreen
+* sleep - work in progress
 
 ## Breif How to
 - Create your macOS installed USB
