@@ -24,11 +24,11 @@ Surface Laptop 3 MacOS Monterey OpenCore
 9. DisplayPort via USB-C
 10. Webcam in facetime
 11. BatteryStatus
+12. sleep - work in progress
 
 ## What does not work:
 
 * Touchscreen
-* sleep - work in progress
 
 ## Breif How to
 - Create your macOS installed USB
@@ -39,5 +39,3 @@ Surface Laptop 3 MacOS Monterey OpenCore
 Also go to "SystemPreferences->TrackPad" and turn off "Force Click and haptic feedback" and turn on "Tap to Click" for the best experience
 ![Trackpad Tweak](https://github.com/rchiruma/SurfaceLaptop3-OpenCore/blob/main/Trackpad.png)
 
-## Debug version
-This is using Debug version of opencore. Feel free to switch to release version when you get it all working
